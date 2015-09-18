@@ -7,7 +7,7 @@ Return your answers as a zip-file. Do not fork this repo.
 Implement a chat UI for mobile devices similar to e.g. [Whatsapp](https://www.whatsapp.com/) or [Facebook messenger](https://www.messenger.com/).
 Mock the server calls, i.e. implement only the frontend(with tests).
 
-There should be the following views and navigation between them:
+You should implement the following views and navigation between them:
 - Chat list: 
   - list chats in which you are participant (there can be multiple participants in a chat)
   - clicking an item in the chat list will take you to that chat's details view
